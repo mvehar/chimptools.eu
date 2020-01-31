@@ -1,0 +1,28 @@
+@import "~toastr";
+@import "~vue-multiselect/dist/vue-multiselect.min.css";
+
+.datepickers-container {
+    z-index: 10000;
+}
+
+.alternate {
+    background: #ebebeb;
+}
+
+.header-row {
+    font-weight: bold;
+    padding: 5px;
+}
+
+.widgetbar nav {
+    display: inline-block;
+}
+
+
+.form-control {
+    border: 1px solid #ffd08c;
+}
+
+.table-nonfluid {
+    width: auto !important;
+}
